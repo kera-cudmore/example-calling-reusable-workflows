@@ -1,2 +1,3 @@
-# example-calling-reusable-workflows
-Examples of calling reusable workflows
+# Example Calling Reusable Workflows
+
+Examples of calling reusable workflows.
