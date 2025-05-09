@@ -14,4 +14,6 @@
 
 Repository showing an example of a workflow that calls a reusable workflows.
 
+View the Reusable workflow repo here: [Example reusable workflows](https://github.com/kera-cudmore/example-reusable-workflows)
+
 Read the related blog post here: [Reusable GitHub Workflows](https://www.keracudmore.dev/posts/2025-03-24/) 
