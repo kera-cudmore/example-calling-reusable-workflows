@@ -10,8 +10,6 @@
     <img alt="Repo banner" src="documentation/light-banner.png">
 </picture>
 
-# Example Calling Reusable Workflows
-
 Repository showing an example of a workflow that calls a reusable workflows.
 
 Read the related blog post here: [Reusable GitHub Workflows](https://www.keracudmore.dev/posts/2025-03-24/) 
